@@ -22,7 +22,7 @@ It is necessary to change the following constants and variables with the values 
 String channels[] = {"example"};
 ```
 
-I also removed 2 files, `logo.h` (109x63) and `minilogo.h` (41x24) for rights reasons.
+I also removed 2 files, `logo.h` (109x63) and `minilogo.h` (41x24) for copyright reasons.
 Had uploaded images using the following [converter](http://www.rinkydinkelectronics.com/t_imageconverter565.php). If you prefer, feel free to change the sizes of your images.
 
 ## License
